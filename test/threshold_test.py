@@ -1,6 +1,3 @@
-# 聚类结果: [20, 0.7, 0.0, 0.0, nan]
-# 聚类结果: [20, 0.8, 0.0, 0.0, nan]
-# 聚类结果: [20, 0.7, 0.0, 0.0, nan]
 import os, sys, time, glob, random
 sys.path.append("/hpc2hdd/home/rsu704/MDI_RAG_project")
 import numpy as np
